@@ -125,7 +125,7 @@ html::-webkit-scrollbar-thumb{
 .animation_text{
     color:blue;
     font-size:25px;
-    font-weight:blue;  
+    font-weight:bold;  
 } 
 .red{
     color:red;
