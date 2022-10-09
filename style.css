@@ -112,6 +112,20 @@ html::-webkit-scrollbar-thumb{
     background-size: cover;
     background-position: center center;
 }
+
+.blink_text{
+    color:yellow;
+    font-size:28px;
+    animation:blink 0.5s infinite;
+}
+@keyframes blink{
+    0%{
+        opacity:0;
+    }
+    100%{
+        opacity:1;
+    }
+}
 /* +91 6350676089 */
 .home .homeContent{
     width: 50%;
