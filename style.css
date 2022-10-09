@@ -122,6 +122,14 @@ html::-webkit-scrollbar-thumb{
     color:white;
     border-radius:15px;
 }
+.animation_text{
+    color:blue;
+    font-size:25px;
+    font-weight:blue;  
+} 
+.red{
+    color:red;
+}
 .home .homeContent h2{
     font-size: 7rem;
     font-weight: bolder;
